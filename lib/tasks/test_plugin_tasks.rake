@@ -2,3 +2,5 @@
 # task :test_plugin do
 #   # Task goes here
 # end
+
+#marking commit msg for git commit 1
